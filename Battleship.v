@@ -62,7 +62,7 @@ always @(posedge clk) begin
     joy_down  <= (joy_y > 10'd650);
 end
 
-reg [20:0] move_div;
+    reg [23:0] move_div;
 always @(posedge clk) move_div <= move_div + 1;
 
 wire move_tick = (move_div == 0);
