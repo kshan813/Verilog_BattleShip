@@ -1,6 +1,6 @@
 # Verilog_BattleShip
 
-##View Demo##
+## View Demo
 https://drive.google.com/file/d/1PbulV2IxOMErATjlX_geWQJzVeq909u1/view?usp=sharing 
 
 ###How to Play:###
